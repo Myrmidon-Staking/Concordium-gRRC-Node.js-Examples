@@ -1,0 +1,15 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node app.js",
+    "grpc-web": "node app.js --grpc-web",
+    "grpc": "node app.js --grpc"
+  },
+  "author": "Myrmidon Staking",
+  "license": "MIT",
+  "dependencies": {
+    "@concordium/web-sdk": "^12.0.2"
+  }
+}
