@@ -10,8 +10,8 @@ For access to our Concordium gRPC service, please contact [support@myrmidonstaki
 
 This is a quickstart project to show developers how to:
 
-1.  Use `ConcordiumGRPCNodeClient` for backend/Node.js applications.
-2.  Use `ConcordiumGRPCWebClient` for frontend/web applications.
+1.  Use `ConcordiumGRPCNodeClient` for native gRPC.
+2.  Use `ConcordiumGRPCWebClient` for gRPC-Web.
 3.  Perform basic queries against the chain (Health Check, Blockchain Parameters, Consensus Status).
 
 ## Prerequisites
